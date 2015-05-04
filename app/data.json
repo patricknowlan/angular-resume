@@ -1,0 +1,252 @@
+{
+  "about": "I am a down to earth technology geek with a passion for self improvement and continuous learning. I have enjoyed over 4+ years of federal consulting and 5+ years of project based technological studies. I have self taught myself numerous new technologies / platforms / programming languages, allowing me to become quite tech savvy. My enjoyable personality keeps everyone around me happy and entertained. I love to talk about what's the next big thing in tech and am interested in working more with APIs, Security, and the Internet of Things. If you are looking for help with your business or personal project, both myself and 540 can help! I look forward to hearing more about you and your project!",
+  "headshot": "images/headshot.jpg",
+  "title": "Technology Consultant, Data Engineer, Web Developer",
+  "contact": {
+    "email": "pknowls@gmail.com",
+    "address": "3409 Wilson Blvd, Arlington VA, 22210",
+    "phone": "7039159761"
+  },
+  "social": [
+    {
+      "uri ": "https://twitter.com/patricknowlan",
+      "username": "patricknowlan",
+      "site": "Twitter"
+    },
+    {
+      "uri ": "https://www.facebook.com/patrick.knowlan",
+      "username": "patrick.knowlan",
+      "site": "Facebook"
+    },
+    {
+      "uri ": "https://github.com/patricknowlan",
+      "username": "patricknowlan",
+      "site": "GitHub"
+    },
+    {
+      "uri ": "https://www.linkedin.com/in/patricknowlan",
+      "username": "patricknowlan",
+      "site": "LinkedIn"
+    }
+  ],
+  "interests": {
+    "professional": [
+      "Protosketching",
+      "Prototyping",
+      "Pair Programming",
+      "APIs",
+      "Public Data",
+      "Start-ups",
+      "Entrepreneurship",
+      "Web Development",
+      "Agile Development",
+      "Innovative Technologies",
+      "Amazon Web Services",
+      "Cybersecurity",
+      "Universities",
+      "Company Culture",
+      "Disrupting the old way of doing things"
+    ],
+    "personal": [
+      "Hiking",
+      "Movies",
+      "Learning",
+      "Sandwiches",
+      "Boating",
+      "Fishing",
+      "Roadtrips",
+      "Cooking",
+      "DIY",
+      "Fitness",
+      "Camping",
+      "Industrial Settings",
+      "Adventures",
+      "Grey",
+      "Biking",
+      "Craft Beer",
+      "Coffee",
+      "National Parks",
+      "New Technology"
+    ]
+  },
+  "projects": [
+    {
+      "uri": "https://github.com/patricknowlan/angular-resume",
+      "image": "images/resume.jpg",
+      "id": "3",
+      "title": "angular-resume",
+      "description": "AngularJS and Bootstrap template that is JSON driven. Enter almost your data in a single file and let angular do all the work. Used this to learn a little about Angular and help kickstart anyone else doing similar work.",
+      "github_uri": "https://github.com/patricknowlan/angular-resume",
+      "demo_uri": "patricknowlan/projects/angular-resume",
+      "tags": [
+        "angular",
+        "bootstrap",
+        "javascript",
+        "open source",
+        "resume",
+        "template"
+      ]
+    },
+    {
+      "uri": "http://jmu.io\n",
+      "image": "images/school.jpeg",
+      "id": "1",
+      "title": "jmu-io",
+      "description": "Developer friendly APIs to James Madison University students to consume in their projects, learn about data, and contribute to the Harrisonburg tech community.",
+      "github_uri": "https://github.com/patricknowlan/jmu-io",
+      "demo_uri": "patricknowlan/projects/jmu-io",
+      "tags": [
+        "University",
+        "API",
+        "JMU",
+        "Data",
+        "Open Source",
+        "App",
+        "AWS"
+      ]
+    },
+    {
+      "uri": "http://patricknowlan.com",
+      "image": "images/patrick.jpeg",
+      "id": "2",
+      "title": "patricknowlan",
+      "description": "Personal and professional website-blog combo used to document and share my personal experiences with technology, the outdoors, and all things nerdy.",
+      "github_uri": "https://github.com/patricknowlan/patricknowlan",
+      "demo_uri": "patricknowlan/",
+      "tags": [
+        "HTML5",
+        "bootstrap",
+        "personal website",
+        "professional website",
+        "open source",
+        "technology",
+        "blog"
+      ]
+    }
+  ],
+  "techStack": {
+    "frontEnd": [
+      "HTML5",
+      "Javascript",
+      "Angular",
+      "Bootstrap",
+      "CSS3",
+      "Data Visualization",
+      "UI/UX",
+      "Mobile"
+    ],
+    "somewhereBetween": [
+      "APIs",
+      "SharePoint",
+      "Linux/Windows/Android/iOS",
+      "Python",
+      "Splunk",
+      "Kibana",
+      "VMware",
+      "Wireshark",
+      "Kali"
+    ],
+    "backEnd": [
+      "Amazon Web Services",
+      "MongoDB",
+      "Elasticsearch",
+      "SQL Databases",
+      "Network/Telecom"
+    ]
+  },
+  "experience": [
+    {
+      "company": "540",
+      "position": "Data Engineer",
+      "startDate": "January 2014",
+      "endDate": "Present",
+      "description": "Tech startup currently focused on DoD consulting in areas around data, apps, and APIs. My first project was to build a prototype data collection and analytics application to sit on top multiple legacy systems using Splunk as dev platform for human generated data apps (atypical use case). This included creating custom web based applications using HTML, CSS, Javascript, JSON, and other web frameworks to produce dashboards and map based visualizations. I currently am working with an in the acquisition focused client under the Office Under the Secretary of Defense. I create custom web apps, provide technical expertise, and help design/engineer a large scale “API First” data platform."
+    },
+    {
+      "company": "CSC",
+      "position": "Application Consultant",
+      "startDate": "July 2012",
+      "endDate": "December 2014",
+      "description": "At CSC I started as an entry level consultant and advanced myself to leading individual and team tasks. For my last project I was working for DHS on their E-Verify identification verification API. I On-boarded, certified, and troubleshot new web service developers as well as investigated and caught many internal software bugs. Before that I led an effort to architect and implement an DoD data center SharePoint site collection aligned with ITIL knowledge management best practices. While working with the DoD I designed and delivered a mock-up hosting service catalog and virtual machine dashboard which led to the addition of a one additional year contract extension for development. In earlier stages of the same project I also led a team of 10 consultants of all ages and backgrounds for a short 3 week task to document and diagram an entire Army enterprise data center within the red-zone of the initial phase of the project. In my spare time I assisted with the development of the \"Army Internet Facing Application Migration Guidebook\" for closing data centers under the FDCCI with direction from CIO/G-6. On top of my diligent project work I was also responsible for recruiting at many universities along the east coast, personally bringing in at least one employee per year. While assisting in building CSC's federal mobility offerings I helped the mobile dev team by creating an internal marketing / demo video for the NPS GO mobile application. While CSC was undergoing their \"Business Transformation\" I lent technical assistance to our operations team and wrote some custom functions to map data between old and new employee management systems during a software tool change."
+    },
+    {
+      "company": "CSC",
+      "position": "Associate Consultant",
+      "startDate": "July 2011",
+      "endDate": "January 2012",
+      "description": "While interning at CSC I was exposed to many elements of the federal consulting work environment and industry. One of my large accomplishments was when I planned and coordinated an \"All Hands Meeting\" for the entire Federal Consulting Practice which was close to 1000 employees at the time. While working for the Oracle Consulting group I developed a digital asset repository for internal proposal documents and data. I was very interested in social and web presence at the time so I created my own initiative, brought together a team, and refined the CSC University Relations social media presence and strategy. Some other notable things I did were when I created graphical financial models for leaders to analyze current and pipeline business, designed and maintained multiple Jive intranet web pages, and performed black box testing for internal resource management Oracle application being built internally."
+    },
+    {
+      "company": "JMU",
+      "position": "Physics, Statistics, and Engineering Teaching Assistant",
+      "startDate": "January 2010",
+      "endDate": "December 2011",
+      "description": "While at James Madison as a full time student I assisted professors as their Teaching Assistant. I was the TA for three different classes, multiple time across various semesters. I tutored students, scheduled time, graded homework, labs, and projects as well as resolved grade disputes, maintained grades, and developed grading rubrics."
+    },
+    {
+      "company": "JK Moving & Storage",
+      "position": "Warehouse Facilitator",
+      "startDate": "June 2010",
+      "endDate": "August 2011",
+      "description": "I started off working good old physical labor. I quickly learned a life lesson of brain over brawn. It was a great summer job between academic years and learned a lot about shipping logistics and workplace safety."
+    },
+    {
+      "company": "Freelance",
+      "position": "Web Development",
+      "startDate": "June 2012",
+      "endDate": "Present",
+      "description": "I do both volunteer and paid work including web strategy, technology advice, development, app prototyping, and UI guidance for a couple of clients. Checkout my LinkedIn for some of my work. If you are looking for help with your website or online content… Give me a call!"
+    }
+  ],
+  "certifications": [
+    {
+      "name": "Mobility+",
+      "organization": "CompTIA",
+      "license": "In the works..."
+    },
+    {
+      "name": "Security+",
+      "organization": "CompTIA",
+      "license": "COMP001020625418"
+    },
+    {
+      "name": "ITIL v3 Foundation",
+      "organization": "PEOPLECERT",
+      "license": "GR750041225PK"
+    }
+  ],
+  "education": [
+    {
+      "city": "Harrisonburg, VA",
+      "university": "James Madison University",
+      "degree": "BS",
+      "major": "Integrated Science and Technology",
+      "graduatedOn": "2012",
+      "description": "I learned how to use technology to solve problems of current societal importance.  I double concentrated in Information Knowledge Management and Telecommunications while taking many classes in the College of Business Information Systems Technology track on the side. I also completed a sector in Engineering  & Manufacturing and spent most my spare time in the technology lab building innovative products / projects.",
+      "activities": [
+        "Mobile Application Development",
+        "IEEE",
+        "Teaching Assistant",
+        "Tutor"
+      ]
+    },
+    {
+      "city": "Washington, D.C.",
+      "university": "George Washington University",
+      "degree": "MS",
+      "major": "Computer Security and Information Assurance",
+      "graduatedOn": "N/A",
+      "description": "I casually take classes at GW to learn more about computer / cyber security trends.",
+      "activities": [
+        "Cybersecurity Team Projects"
+      ]
+    }
+  ],
+  "communities": [
+    "Clarendon Resturaunts",
+    "DC API User Group",
+    "DoD API Meetup",
+    "JMU COBDC",
+    "MetroDukes Alumni Chapter"
+  ]
+}
